@@ -1,0 +1,340 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+
+  "More":
+  [
+
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Dino angelical",
+      "skin_url":"https://lh3.googleusercontent.com/ByT4JSKF318xTJ5-xcPKyl26Z9zh7rAVaVFNQ1EipFA6tUlpjQ_i9aZM9IJcfhXa0b8goMrcxid1RdgzwUyRVg",
+      "view_skin":"https://lh3.googleusercontent.com/4Po4mU9Euc2xoukCtqIMeGqPHXaf-2-mMcjbVzoOvohJJ8kZyENuTTCn4kYQ8lNpPlPc5Zza-LccpUoBnsmjQ60"
+    },
+    {
+      "id":2,
+      "name_skin":"Dino FreeFire",
+      "skin_url":"https://lh3.googleusercontent.com/MwWnMo7jEBxdPuzgpaBHab1ctd0_bP9tZvP8unpxkVJeEe9zN35lzPuHVeaIIcZSp3gKrM4mGKgyZ3srPykXoA",
+      "view_skin":"https://lh3.googleusercontent.com/ie520H6SlfQs6abnrsmG9T-qtjRHxWooXVzKdUs0y_nddcvnoDRPHtEmZrAJlcXDvQ678hRv7lLiUnG53etA__0"
+    },
+    {
+      "id":3,
+      "name_skin":"dino del freefire",
+      "skin_url":"https://lh3.googleusercontent.com/nfiuFm19A0MbcB9O0xN6RiLu14Af0szgRjMda2Ohd7rVVuSPLl0DBuAgfBhiGamhr-osA8dthD0oPs40RsVTitpnzENX7sNGLak",
+      "view_skin":"https://lh3.googleusercontent.com/vcaOsIKh8__qrtotnxaZape8uwdou1Cm3I_beASwmtvTfkntiYZEp1HP3-0x_FSfpvyZIshYTTx6euY8oq_z2fzulD7-ufEjsavp"
+    },
+    {
+      "id":4,
+      "name_skin":"Dino",
+      "skin_url":"https://lh3.googleusercontent.com/TfT4Rjz0nSZFgphUf1Qz1YQ0r-2XfVQuEpQx4QJt0yq5xkyGww2ptQQEd1GnpiV3XkQ7ulmu9Qv0iiDx49jMvw",
+      "view_skin":"https://lh3.googleusercontent.com/6yOa9DegSVIX6fZdq-vhmKU8t-XsrqmzfhpN-zBWaxydPXHviGyKz2CrO6i5N9tO6_NJQsni_J4l6MaIxaq9mw"
+    },
+    {
+      "id":5,
+      "name_skin":"Dino Verde Free Fire",
+      "skin_url":"https://lh3.googleusercontent.com/jDvN1A_nmJUATKXKjACI5YFnaUainaG6oiSQd7ktbOiFeBe-1kNixtDllM-A6m-7BZpel0bRGNNSPmkvwzayrg",
+      "view_skin":"https://lh3.googleusercontent.com/JAHHMYyajpmgqWnB0ziapiRox5ZXwDnxvkGG-ffYCXy7DT-eck7rofZVOoZ73d78ShwieEzuvl10KR9JKbTKkzY"
+    },
+    {
+      "id":6,
+      "name_skin":"Dino",
+      "skin_url":"https://lh3.googleusercontent.com/IOxEY9NBz2OBal7dmSBSKnEhOBvlO_ny-FNOPoD1SALkcJ8VJSIETY7wRfqst-h0uxpKV6xPORocGtpJGVSEWA",
+      "view_skin":"https://lh3.googleusercontent.com/JTY8fn1UNPn8eY3-Nyod9pLhuJMDRXkcYjW_1RiLm0kljUxt-4Usfuc_7l9NXeruLJ7YvVVopIMj5kuf3Cj2BA"
+    },
+    {
+      "id":7,
+      "name_skin":"dino angelical",
+      "skin_url":"https://lh3.googleusercontent.com/kO96SzWlE4EoVX_lpKQHgKQZLXWeCM-4zXscuXgrWlBYoOTtMs1h0I_Y5VmVrkvdyE8j8vf6W0PATqfdClPg9g",
+      "view_skin":"https://lh3.googleusercontent.com/uJOJ_qDWWTqKv5a2Z7ZE1Z-RCz5w859Mctp8btE7ALGgbV0LCnj2rLbOpDuyr16a3ajkoFZgQoa0TxEFmak4vA"
+    },
+    {
+      "id":8,
+      "name_skin":"Baby Dino Girl",
+      "skin_url":"https://lh3.googleusercontent.com/ZjmUVMlR2CCf02dBVE-dUSFPcuXOaa-zVdhY7BudddSw2vVZTrvSHjd89KQFN-7rFNPQ37U3qVsJF5oD1T4I9wGJGMtslr17ochg",
+      "view_skin":"https://lh3.googleusercontent.com/AAUTI634RJUbo8rSLthvTu4pi_mVKCDnipCz0lgVCg4rv3_22hm6vKQBHsB9vZqjz7DbdTEae2wz6xN_mGcH-2LiGlu8vA_HXPJE"
+    },
+    {
+      "id":9,
+      "name_skin":"Dino",
+      "skin_url":"https://lh3.googleusercontent.com/CfSQsyXF49Xz56nou-79dz6p1m-0TYhuvbWxaPD0vwMw1Zk78I2rz8IaIMKipE-qqLDyuDU98yasz6MCZQcQxA",
+      "view_skin":"https://lh3.googleusercontent.com/prIP1ghOfzDon1zlqekJTBS7wq0v9x92j1HwkfLV0UIQZq93Vra8eUTBrcoW6s6JT9nz_XcEa9pxRGFvds1rNA"
+    },
+    {
+      "id":10,
+      "name_skin":"Dino",
+      "skin_url":"https://lh3.googleusercontent.com/fJSKGFe3p6uqGL0ytoRDceDVDCSmS8VwOkKTRRn_zsn_7dMm9x8reGoTzg8GMDfuu2V_HUbshmThG5z-w48SWQ",
+      "view_skin":"https://lh3.googleusercontent.com/DipeXx0q7qN-cvjtscXeu8sSqkkSV9feSKzDFAThqoIK9f6XfFbBPANNd_73HdlTw-JC8oPX8X_LLPtufK5Kgms"
+    },
+    {
+      "id":11,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/9stw4iLF_OujGYmsGWhj4aEi8908mP-U4McEjxartov6O3HOZeHajxJ157iq5kYEJeTzEKW2nF4JiVH_9q08hw",
+      "view_skin":"https://lh3.googleusercontent.com/TMasmnQvZDsaFnX8b615t6CH-zdNCqWqNN-J--dz3KxhTpwCVhkJFROy87-puD4xgDSycruQaXM8Am1Zq5CjRg"
+    },
+    {
+      "id":12,
+      "name_skin":"roupa dino",
+      "skin_url":"https://lh3.googleusercontent.com/KxWY8gthdwzozxD6fb1J-87gq6OfrTzqlLYtC7TyHX89XT96eZNPEn5QFXD40034Y8bZJqw6iFByxbi69VOF",
+      "view_skin":"https://lh3.googleusercontent.com/X0MAjFZo1Ytz5BqbDnEFtTGorRthFApPvKiJ1PU7Wq79lF8041c58ju2SyezOYRMUJf8J8xL7BtIx4WXRdhAnRs"
+    },
+    {
+      "id":13,
+      "name_skin":"dino fofo",
+      "skin_url":"https://lh3.googleusercontent.com/xeJQYy0WX3bmNwPNlha2vzvSPy5jWX2hQ1x9N48GLboucVwBu8i8vwk9DjuYqm6SoPFuJ5j7ty594eZvGKkhV2dZvOqRNAzzoXk",
+      "view_skin":"https://lh3.googleusercontent.com/G0AgTuiFT27vusy3jRMGc8ThO3Fy8_YFFZkgiQEB1gvtqGfHLmiRJumK8FzbQTadqwxsK0catH_jWC_x13NRHsrftZLEDWhwOhw"
+    },
+    {
+      "id":14,
+      "name_skin":"Blue Dino",
+      "skin_url":"https://lh3.googleusercontent.com/lyUjINskVkwHSyuRYUnJUVpGXBWKiUj5sK-N_05_iZEs08TrZXnl-3NnOryHj2dApTTxAVfE9U59IGYSRTer",
+      "view_skin":"https://lh3.googleusercontent.com/jUocYGZwCB3iXMMKmwlsAAS1HGjwG5Cj7d7V8D0QNskXuhgd-KHoWXeDNBcIuPJxTSmy73OjIgEcRlh2Pz1jGg"
+    },
+    {
+      "id":15,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/oM_W9m3DZTEzOSlX41StJNU46sbzhvCjOg11UYBwAp-_6MzmKT04xqsLm2GMsBkSfPvwb9O-RuMIEPpZYvzRjIqRES3urL2RiTs",
+      "view_skin":"https://lh3.googleusercontent.com/9sihkTdPruszDPZuEAhIKwyjYRIXl_elNRsT_F69wj4zR4lXvDRvmdZ7gChOkSkhfM-VKk263kJ7WMg57HIGW0fgPH1rV47lolg"
+    },
+    {
+      "id":16,
+      "name_skin":"Dino Boy",
+      "skin_url":"https://lh3.googleusercontent.com/2TjFHs8VeSHjZiZXsDHRfEYBNcnGvk3_Ft0exVhUlQIukaikJ9qgwIKDpiQ5XgdXDRcvkfHme1KKAwwhsBcFi_4",
+      "view_skin":"https://lh3.googleusercontent.com/8ME4InlB9ceeXG35fhy6xRQSbE2WXwxF1xP-n4aCEeGN7MoBL01LOY06z1tmFvsmdIfiwzu1KllwGeGOA2lm4w"
+    },
+    {
+      "id":17,
+      "name_skin":"menino dino",
+      "skin_url":"https://lh3.googleusercontent.com/c3azTWjMzikkaXe1YJnL_Eel-e2QZJ1SdSWspF41yN-qAvuR9iuIYC_l_P7DFfsyKDvqda3XX8pb9-QHIlo0",
+      "view_skin":"https://lh3.googleusercontent.com/SClT_WzGtVtXRj41yNMoXnMSy6sv-cn9CXPhKGzSZtRIKyPoEFrUE-r0L1oH2Se7-Yz_VhELnHiOupq8OrS6Kg"
+    },
+    {
+      "id":18,
+      "name_skin":"jvnq dino",
+      "skin_url":"https://lh3.googleusercontent.com/ZqauoOXgotwdEqeKBJLuT00rDVyob5bopHd2RNDGR8RA8rwnA3hJhgLUahoiYKSUrPXIxaAT7maMjyZkQnOLZ2c",
+      "view_skin":"https://lh3.googleusercontent.com/f6gUEGNpA8JL3eoej115nF5ddcizcDgae412EUmcmTbW1HMFbI-DiZVZeIugFkVujsJRFMrefaG8RuBl2Ur3kg"
+    },
+    {
+      "id":19,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/UfG_HCpU79ld0YEAC-gbht5XAq40KuGVz2UOxdpp7Hn_QjyTU-6S9msOE2NLLFDQfgkn3Z_2qBWHA3AWf-RT",
+      "view_skin":"https://lh3.googleusercontent.com/uGL0nHmgQ5Hyn8N0xGKENDAgIeDoxIz-7iM0v3XeEjpwMjS2nC9CchcpQjvahl1r0ZtCw8UnOGqtSdzpFw0t"
+    },
+    {
+      "id":20,
+      "name_skin":"dino do free fire",
+      "skin_url":"https://lh3.googleusercontent.com/wQiUoehcmjxl5om4mr8cIQKHxSO0UKqRzaUTMT4uB37lLFCSgBpmgmyJS4hRDXhkSptZ1j9rWOmvZ1cADyb0ug",
+      "view_skin":"https://lh3.googleusercontent.com/19bxeynvzeKvkImRhPl_w7Noa2f2ToYHbx1C6Tz2mUIB76bt6zlk6XTM1NQi9hTtMYv9SQqi3YEiW6_k-5wd"
+    },
+    {
+      "id":21,
+      "name_skin":"Dino",
+      "skin_url":"https://lh3.googleusercontent.com/0u0M1g5lntXlWO8enmV0Nacbx5-QEJO3657vUfemBTQ7iMWw8lAqU0D5yFhqMWpHOIH2oCZ-huvjTmpEsH-EqttvpaVJ_K3jVnI",
+      "view_skin":"https://lh3.googleusercontent.com/SEZbNwUrrGjxxhMg0WZgq5a6DdrH2S2pQ8xahw_BKLRYJQR2ZbocJttEJO5TxgUrOALl7rbRoxqzIdz2VOONpdTVpuGbNndUNjY"
+    },
+    {
+      "id":22,
+      "name_skin":"dino girl",
+      "skin_url":"https://lh3.googleusercontent.com/bAIN7I78epsTUotWil1D6cqWEbxOvZYz7IPB2dJVw-WQTFRTFAIZuyjhrHeWh5g038BPSI__5noFgSFUk1VPJmG3aZ9Ez4clsWR2",
+      "view_skin":"https://lh3.googleusercontent.com/WsOKmY9ZwN9oVs4IvcPIfBUuW67jxNbwwzXGBvoIp9irB49utm-yyTESxGymPncOtZtxTFU9prK3HhctOODG5oR0_iEZxCJuxQw"
+    },
+    {
+      "id":23,
+      "name_skin":"dino Kawaii",
+      "skin_url":"https://lh3.googleusercontent.com/QpRBQZl2ExQeOb2BXJRhW0cwkcVpzfnz_EdtoLNeEFX_za1rf5PFIWfCD0PBD8lhtOY0dAoQB0IHXBnAWv1yYw",
+      "view_skin":"https://lh3.googleusercontent.com/iCKappk5lL3GCq0jLrCuErcrIKju8D9PhYYZLKMGELTRQ2a9P9mVJsuJVQbbk6XGhcgXmkb3AAVfBjr3mBIX0Q"
+    },
+    {
+      "id":24,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/IFYq4jgZ6Myiy6oPbRyLpZ9SBCnQ9jA4hD_HMIeNQkwGYzKL-R_17RnDLm1Kxr6hZwxIx6d5v8TomrnuT_3b4mteRVDQLHqs_Mg",
+      "view_skin":"https://lh3.googleusercontent.com/tky1MvmBQoPSIxRP5w5Tv2NfZq9coCrp_3As3U_bF5duTVBRtmJ-mi501pyMWBYDuL8cYQ4UA69QNagG3kXedIu2-vYS2G-ZRA"
+    },
+    {
+      "id":25,
+      "name_skin":"Red Dino Girl",
+      "skin_url":"https://lh3.googleusercontent.com/fUH0Yy40IxAB6rgGiaPWT9z5-WSlyEe-a_q1Kc2SoPDI-IGE3kCAPIDCzB5lzl_yJxFjntZXY07fTNMJ87PO4A",
+      "view_skin":"https://lh3.googleusercontent.com/syOBRWzt1XDS3iUY12NHnNeo52A6Z-GFS58MCPV1eY1hlxzM5CbcbUMx_WSYUdiMmEVC43Q8cGAiWquDwWwcOOM"
+    },
+    {
+      "id":26,
+      "name_skin":"dino free fire",
+      "skin_url":"https://lh3.googleusercontent.com/FnNkw0ESMw8qAGgVcl_JI71dko3jmyaL2xgtkGn21ml3cp9O_R_z1DnRKwOU_rc_KOkQ1JOYzxp9vk1u399pxfw",
+      "view_skin":"https://lh3.googleusercontent.com/dJGAvKcBB_HqmdwqEz46L--_UAtS_BiIBoUiy3inxLvLK-NAa6beMYUs3AsddQTG8HG_k52bX9W5SrCDl5l9e1g"
+    },
+    {
+      "id":27,
+      "name_skin":"Dino NamKung",
+      "skin_url":"https://lh3.googleusercontent.com/BcKFSP9Y_UlGEhDTeSPnDCfBGRWnoA5PZw6KaIt69qNFNCQ5xyYqZxekdILVEF6oAJCVmdxGBhojT63-uPJNKw",
+      "view_skin":"https://lh3.googleusercontent.com/uxWgXswlVX136Kh3fOXEwaW2LHRwz_3ix1al0_r5PrM7n6Ntsk8cyIr8v14RiaPtwdjRa_KJsanRyhEj_DuKA9w"
+    },
+    {
+      "id":28,
+      "name_skin":"Dino Boy",
+      "skin_url":"https://lh3.googleusercontent.com/2VRlOMCDm8wamUjDFAJndEtXcaI3PsZ2S4zsuztZ3upqLdAxmftWxOhticBDUBzWto0zOhy17RsbhAhoPeTCnA",
+      "view_skin":"https://lh3.googleusercontent.com/8MshQEJyi7vD4deoQ22s-akNhaRSQwxtoiXbyoMW7Qam9b4lt3Kzy1HesMLoQzq2ox1gcV9Mgr13KJ57Wq85"
+    },
+    {
+      "id":29,
+      "name_skin":"dino suit boy",
+      "skin_url":"https://lh3.googleusercontent.com/8zNRHWaykLCiOvoRjbeM_aIV_4ZZJ4WKac7DfcfAXLZFKswa8JEaMNMsW6_9jS6tVOf8juVKkNvSKcthDwWBqUhDo5Ekieb22OU",
+      "view_skin":"https://lh3.googleusercontent.com/G7J98ZC16LOMPwnPKMOzt1cIqA0N5RugbxYc8FpqLza9RAMs8jLgCBqqEmPBupzMkpikqigoll0xH4HohjINxp8hv1aEIPsChMs"
+    },
+    {
+      "id":30,
+      "name_skin":"dino boy black",
+      "skin_url":"https://lh3.googleusercontent.com/yXOSLOM9lryNBPMYcaV2MZ2L80Q2-Au3_POlkUlfoRuBlBYL2jWfkCLCGdwm326jwUiN18jV0HAhoMfCZ2gYMA",
+      "view_skin":"https://lh3.googleusercontent.com/LfqmGwJ9-UBsIEynYPwsXAUUsr3XeuWagCOl9_uRAFWo1-5cNDI_74xQJLV_G1_DCXnO7M4izOKXEj7HTL90qg"
+    },
+    {
+      "id":31,
+      "name_skin":"Dino Girl",
+      "skin_url":"https://lh3.googleusercontent.com/7X0isMwjOF6LcsfFOHbd9WRjUOa5q9GVCDjfDhSAxjsLvW3uuYdjFPY9V5VWEWSAJXcaGjpkhGx-kgdtRIWL5aw",
+      "view_skin":"https://lh3.googleusercontent.com/724VqlyK7TblaCPF3sOD6n7-3t1NzYcb_DmS8XUlsg-7L2qDSS1vy6mrISivtOpeJMyXn4GmycZpwsWrAW7s5w"
+    },
+    {
+      "id":32,
+      "name_skin":"baby dino",
+      "skin_url":"https://lh3.googleusercontent.com/xXlVp-uVSogpXO_AlIb4Zm3XslkvENAbOtr3mhTfsHUWUub1xb1T8WpTUOSMgn5OSSetnhQUtmYZDmvl84aCKHw21MOJWJZyBLU",
+      "view_skin":"https://lh3.googleusercontent.com/5ccSHeJJ4N__ezBHbBrXEA1aEa7l0bobzu7i_kmI3rf2csoJRfTATtLVgtcE4ILd2nEK5_wbqLahQD6cKKqo_cKl4izzYWnfzQ"
+    },
+    {
+      "id":33,
+      "name_skin":"boy dino",
+      "skin_url":"https://lh3.googleusercontent.com/tgQYqPfFlUZMuHZ-ZyzReVmDHnTTfRFFN-68mphKDPd5k6LIHMGMuFpNz5QM2ntaMbe5Y9kWs0EqCiePde-k",
+      "view_skin":"https://lh3.googleusercontent.com/J_UDSkKEjfc14uqOwVFHZES5GMgFhRullnN8u5zvJxaGb1Smx5LFOzWCJbcYFP34-Nd8-fmKoE2TxNXKicTr"
+    },
+    {
+      "id":34,
+      "name_skin":"Rangers Dino",
+      "skin_url":"https://lh3.googleusercontent.com/tUBTrN7Ee-HhI8vQgZ5NRSaEt4areLGgOkXbApUBek2fNE_Y3IcIG4W3YKf25NWGSl_AeU3zSPmTIEvZL1ZaTA",
+      "view_skin":"https://lh3.googleusercontent.com/mWoJ7iLOBIlt_oKv69ZF2RaNDMSxXUQEcomWNqC4MN2lnJNUF7oO90Xf8-j0WtTj2yZMX-pb_JGQVplDPYBfoA"
+    },
+    {
+      "id":35,
+      "name_skin":"ranboo dino hoodie",
+      "skin_url":"https://lh3.googleusercontent.com/H_pK_7Nb53RTafy-VQfgib_sWXC6miHFxFQ9z-W6dRewtgnMIGvK1gd22XzwAhKe7dpZjnGq28JMLdQHGcwyLIZfX4xqzfKHOM0",
+      "view_skin":"https://lh3.googleusercontent.com/Cf-wA2SMnbH4fG7BoOmsn3YC8G0B1gt6nuuES3Fgp5UeA0rNvrjqrJXVquKXAGbJ7id0zDPUGT6EVaUqc0wZDlk2pJBxLHOJbQ"
+    },
+    {
+      "id":36,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/EdwtZpzCPHoFInPmcYDRXguUfPp8PZ-sw9uzacYXLL2BTloaM3M78zfy68a0gt5KDPFXImz26QudE7K3hNkcuUs",
+      "view_skin":"https://lh3.googleusercontent.com/CH95h4TvmVOGtuOscejOORJMT85LP3exUs3S8H1sCYkSWkHnV9Dmm2S-7xTN8c7AAKWzWvsBxoVty5YVXIiD5gw"
+    },
+    {
+      "id":37,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/Pa0_mgr-e1wML2mI_IV-xcvWNt5-3gPDe_rul4kVyhco2V0XpeXBZkX57jtU9KJavko2mNItMpc5HLJsdnfFzQ",
+      "view_skin":"https://lh3.googleusercontent.com/QonKmq6Zg5C5Uv7jemMlsMDWGBGUZxb23db7YlC3zTL1ZjL2mQjDfhtx61yOpXdKt8P9SmHG9f3iOgsAdnYzDaE"
+    },
+    {
+      "id":38,
+      "name_skin":"Dino",
+      "skin_url":"https://lh3.googleusercontent.com/ZcxjjxXz-QQ1sgpfmMMhfioUI9h0GJUytdjKYuWzrlfcNSZ0CU7ltnBSd8IL13tSXwQLg-Urt-DFU0NboXsVqw",
+      "view_skin":"https://lh3.googleusercontent.com/uijpeYr-jcjZsndoVloTBTqbW32bMqEPSvu3nwLE8o5jIqfcXiIyMOfnPlJxgEaoVPicFNFdRKJqZw_km-BBeA"
+    },
+    {
+      "id":39,
+      "name_skin":"Dino Doknes",
+      "skin_url":"https://lh3.googleusercontent.com/1kuyWewwvhov1XdcaqZNwaH8V7I_CfGt0GKG0XdSm27Nke9G26huMv3Wx4cOHe9UHG2QDZv0EZKZb7W2hxjktTZ9ynqn8yvf8JU",
+      "view_skin":"https://lh3.googleusercontent.com/7XKYvzG9orFRZoFE7r3aurCgXdNURh1ndLVl1LE6JThALBhyb3fFdFA6tszR9hX05kn75Msa7RnVv7cv0F3sdLnH59luwToiC2o"
+    },
+    {
+      "id":40,
+      "name_skin":"Tubbo dino",
+      "skin_url":"https://lh3.googleusercontent.com/qAUQWwgrNlsw6PbqMuCwt3Z1kgrygMvvLalOxAM2RKTxpkYngR0J9JiYCXbA4nA5uywtbIJqdABGxrw67mQHP12hG1jVLChkfdQ",
+      "view_skin":"https://lh3.googleusercontent.com/DtR5eyTXgNt77MW1Y0C-WueXY4KhsAWrXBdV8_fwzIo3n8dK0UHLShTQxZhn5mbSBJu4IshZMl6amwmm30TActQb7sWZdsBWO7wk"
+    },
+    {
+      "id":41,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/fPnJ_Us0FF9ZUoWcApIWt90vFWvZHvtmZS1u3LRtNjzhW_Hb4U2Jwfa1uTe6hh81tt9VvDsCha871-BfQZ9eKg",
+      "view_skin":"https://lh3.googleusercontent.com/aboJd5NJZ_iZknaBFO31BAMgY5Uv3C3MiXYaeqFGVLKzpx6f3PPih-ROzCpoiENEbY2vG5-MX32vI323KP-5JQ"
+    },
+    {
+      "id":42,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/D_gTNyfQ7x9otH4w0DhBiOq0JFzR_LJkD-d1QYlvXcDQg0Poy8t40TjA5pR-9j8clduh3RauYxZwjStgITZYAYFIArwEpoB9NlE",
+      "view_skin":"https://lh3.googleusercontent.com/_VDyxDzY0jJnyDegSw1DeimNo5YnCmO0MrnFaIX5hIMzOBda25Uzbb7BKiZB4NHRMJE64bUC81XeF9TXHkD1wQRs-7E78FD76A"
+    },
+    {
+      "id":43,
+      "name_skin":"dino rosa free fire",
+      "skin_url":"https://lh3.googleusercontent.com/9RpQVcjgv48Su375BFOd7hqq2bEFtQrFurIaCwGtg23is9x0gutwwYGXr6fN45rWehN5hbjea6jRJ2cYNLMbfPs",
+      "view_skin":"https://lh3.googleusercontent.com/jJYS64mj2xit8yTIKBFSKbs43VYvthfOOouq3uBkfzcouFvxB1OLT8qT1nuNkXgOHIhMClJhjV_PsAI0biKBNA"
+    },
+    {
+      "id":44,
+      "name_skin":"purple dino",
+      "skin_url":"https://lh3.googleusercontent.com/BOnouPLU-dKNlSOp48nSpksSArlrz4zmAe-wk7wPSX7qdrFXbCVuhqiulSSK9b5asB-RduaXiWeeyGARXsSHTN8",
+      "view_skin":"https://lh3.googleusercontent.com/6Y7xOD2w5dO8tM2zRksYA7HfoUDopkfpq1Wmsnd-x7aNC4ukCzeZjJLhu8fDfp_0cHKHOd6vxgqqZOmv1TEQ"
+    },
+    {
+      "id":45,
+      "name_skin":"Dino boy",
+      "skin_url":"https://lh3.googleusercontent.com/pVw5QTBTqU0BCo0ySpb8APvSmGBgQS-ePHUZ3i2GWLEMXE_tppN1aiZCpzHvYHLUuHkymA7BY0NT-mcWIYthQ-Q73v5l-zKeJkjP",
+      "view_skin":"https://lh3.googleusercontent.com/TJHQY33t-xnEBfaha_Zok_YEp37Jf1uWaqilMep2NZCRtJHGaQqufCt7yqUicQy3qWyoLpuh_8ksA4PYm0_f3zAi37giqZR4G-g"
+    },
+    {
+      "id":46,
+      "name_skin":"Dino Do Free Fire",
+      "skin_url":"https://lh3.googleusercontent.com/yLyRfB0XHOg3aTNMkgIbJWLmX2pdSUOqxfUvpyB22PzYBl5RU9G1-LqvG7rfwAeutRNZbAX3rDXN-A7s-UdbkdBC4xKuXlfvg3E",
+      "view_skin":"https://lh3.googleusercontent.com/oa0xJWGUiJzPJU8b7AQcvElwYwH5paWT9O6TQmM9nLJGreOxhs4kgCKyyg92uZrCaKkxdOz4M6TWfzR6bwc489FRVIkhemqBVQBd"
+    },
+    {
+      "id":47,
+      "name_skin":"Cutie dino girl!",
+      "skin_url":"https://lh3.googleusercontent.com/oajBI_94-UTg5htz-OrjMtpOcMDkdEmZ1ZwoHzyLqhgbipzrbDMb1_ZH0cL3GBSjCR0P0d5GbV3xCDMoVnFjBqGLGOfEO7BQIw",
+      "view_skin":"https://lh3.googleusercontent.com/Txh13sE9Z_UsND3sTr0ON15xkUxKu6RfQBOrXMiBROMG8FkDhzAiqyk9zpXEVyiYL4G25aUT_n2FZpgUwZdUrXY_TG6rjDg2a4k"
+    },
+    {
+      "id":48,
+      "name_skin":"cute L dino",
+      "skin_url":"https://lh3.googleusercontent.com/4XO3WuzwKGNdJ2TVDLNchmoWCpx5GWSPG28cMfda2OCwygB5OZxM0yaB5Dh7iqT3NpLleQh8K4Jhi91jLKHazP0",
+      "view_skin":"https://lh3.googleusercontent.com/rXe96-VRKtbLhDRIPUNgxyftb82CUaMGRbc2k9aQZucTyqvoB7kPqmMvGVLV0WMxpy761RUxozPwKmB58fO9UA"
+    },
+    {
+      "id":49,
+      "name_skin":"dino roxo",
+      "skin_url":"https://lh3.googleusercontent.com/lLos_yZVpJrSBlYcwWE7DlgFUuB1_-uMX9MhHWZO7rJ55Ty1bXSO2a3C5LFBNDKs6J2vfqkL6hTOTrAJ_iSo_ZesDGqJ7ZD04iw",
+      "view_skin":"https://lh3.googleusercontent.com/q74Ffdq7gh3Eh7sISee3Oq0YIMUXOaMdi9YYZEoeEWEztwAVlP862wbQ76QW10Zd9KqpBiX_haWmWanaO9Vta8iOZSIqdwAMEeBx"
+    },
+    {
+      "id":50,
+      "name_skin":"dino",
+      "skin_url":"https://lh3.googleusercontent.com/6xOUYJkgzcEklMONGQraiXumlmnprRM29X8pmxwLeMfOJSGoy3pLDZ3Wmw-OpS-dmQEdPdFMSsK1-ikQv1iyJQ",
+      "view_skin":"https://lh3.googleusercontent.com/QyMDbHNfanOt79ZdACsfnw_INdxyWvF3HUnUY04jKvUrZ0ui-114jlF0kZrT_VpOkCSKPzZ7--KQUCD19qM3EA"
+    }
+  ],
+  "Addons":
+  [
+
+  ],
+  "Maps":
+  [
+
+  ]
+}
