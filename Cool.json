@@ -24,7 +24,12 @@
 
   "More":
   [
-
+    {
+      "id":1,
+      "title":"Idea Mods",
+      "image":"file:///android_asset/Ideamods.png",
+      "link":"https://play.google.com/store/apps/developer?id=Idea+Mods&hl=in&gl=US"
+    }
   ],
   "Skin":
   [
