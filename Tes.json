@@ -643,7 +643,7 @@
       "addB_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Behavior.mcpack",
       "addR_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Resoures.mcpack",
       "view_add":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/ultimate-bedrock-utilities_2.png",
-      "des_add":"https://archive.org/download/description.html/description.txt"
+      "des_add":"https://github.com/ideamods/Privacy-Policy/blob/main/Description.html"
     }
   ],
   "Maps":
@@ -653,7 +653,7 @@
       "name_map":"Hello Neighbor2",
       "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
       "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
-      "des_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.html"
+      "des_map":"https://github.com/ideamods/Privacy-Policy/blob/main/Description.html"
     }
   ]
 }
