@@ -650,9 +650,9 @@
   [
     {
       "id":1,
-      "name_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/uploads/demo/skinaddonmap/samplemap.zip",
-      "view_map":"https://aliendro.id/uploads/demo/skinaddonmap/hello.png",
+      "name_map":"Mushy Island",
+      "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
+      "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
       "des_map":"https://github.com/ideamods/Privacy-Policy/blob/main/Description.html"
     }
   ]
