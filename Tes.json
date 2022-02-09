@@ -43,7 +43,7 @@
       "add_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Addon.zip",
       "addB_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Behavior.mcpack",
       "addR_url":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/Ultimate%20Bedrock%20Utilities%20Resoures.mcpack",
-      "view_add":"file:///android_asset/ad3.png",
+      "view_add":"https://archive.org/download/ultimate-bedrock-utilities-addon/Ultimate%20Bedrock%20Utilities%20Addon/ultimate-bedrock-utilities_2.png",
       "des_add":"file:///android_asset/addon.html"
     }
   ],
@@ -53,7 +53,7 @@
       "id":1,
       "name_map":"Mushy Island",
       "map_url":"https://archive.org/download/mushy-island/Mushy%20Island%20map/Mushy%20Island.zip",
-      "view_map":"file:///android_asset/map.png",
+      "view_map":"https://archive.org/download/mushy-island/Mushy%20Island%20map/mushy-island_2.png",
       "des_map":"file:///android_asset/map.html"
     },
     {
@@ -61,7 +61,7 @@
       "name_map":"Plants vs Zombies 2",
       "map_url":"https://archive.org/download/mcpe-pvz-map-v.-2.3/Plants%20vs%20Zombies%202%20Map/MCPE%20PVZ%20MAP%20V.2.3.zip",
       "view_map":"https://archive.org/download/mcpe-pvz-map-v.-2.3/Plants%20vs%20Zombies%202%20Map/minecraft-pvz-2-map_3.png",
-      "des_map":"https://archive.org/download/map_20220209/map.html"
+      "des_map":"file:///android_asset/map.html"
     }
   ]
 }
