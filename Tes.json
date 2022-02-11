@@ -55,6 +55,13 @@
       "map_url":"https://archive.org/download/blazer-water-park_202202/Blazer%20waterpark%20map%E2%9C%93/BlazerWaterPark.zip",
       "view_map":"https://archive.org/download/blazer-water-park_202202/Blazer%20waterpark%20map%E2%9C%93/blazer-water-park_2.png",
       "des_map":"file:///android_asset/map.html"
+    },
+	{
+      "id":2,
+      "name_map":"BIG VILLAGE RESIDENTS map",
+      "map_url":"https://archive.org/download/big-village-residents_202202/Big%20Village%20residents%20map%E2%9C%93/BIG%20VILLAGE%20RESIDENTS.zip",
+      "view_map":"https://archive.org/download/big-village-residents_202202/Big%20Village%20residents%20map%E2%9C%93/big-village-residents-mcpe_3.jpeg",
+      "des_map":"file:///android_asset/map.html"
     }
   ]
 }
