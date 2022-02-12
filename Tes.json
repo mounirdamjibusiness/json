@@ -51,16 +51,16 @@
   [
     {
       "id":1,
-      "name_map":"Medieval Town map",
-      "map_url":"https://archive.org/download/medieval-town/medieval%20town%20map/Medieval-Town.zip",
-      "view_map":"https://archive.org/download/medieval-town/medieval%20town%20map/medieval-village-03_9.jpeg",
+      "name_map":"Hells Nightmare map",
+      "map_url":"https://archive.org/download/hells-nightmare-beta/Hells%20nighmare%20map/Hells%20Nightmare%20Beta.zip",
+      "view_map":"https://archive.org/download/hells-nightmare-beta/Hells%20nighmare%20map/hells-nightmare_3.png",
       "des_map":"file:///android_asset/map.html"
     },
 	{
       "id":2,
-      "name_map":"Isolated Battlefields map",
-      "map_url":"https://archive.org/download/isolated-battlefields/isolated%20battlefield%20map/Isolated%20Battlefields.zip",
-      "view_map":"https://archive.org/download/isolated-battlefields/isolated%20battlefield%20map/isolated-battlefields-pvp_2.png",
+      "name_map":"Castle map",
+      "map_url":"https://archive.org/download/castle_202202/Castle%20map/Castle.zip",
+      "view_map":"https://archive.org/download/castle_202202/Castle%20map/castle_8.png",
       "des_map":"file:///android_asset/map.html"
     }
   ]
