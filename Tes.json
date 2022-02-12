@@ -58,9 +58,9 @@
     },
 	{
       "id":2,
-      "name_map":"the legend of the evocator map",
-      "map_url":"https://archive.org/download/legend-of-the-evocator-outpost/the%20legend%20of%20the%20evocator%20map/Legend%20Of%20The%20Evocator%20Outpost.zip",
-      "view_map":"https://archive.org/download/legend-of-the-evocator-outpost/the%20legend%20of%20the%20evocator%20map/the-legends-of-the-evocators-outpost_7.png",
+      "name_map":"Savanna Utopia Resort map",
+      "map_url":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/Savanna%20Utopia%20Resort.zip",
+      "view_map":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/savanna-utopia-resort_4.png",
       "des_map":"file:///android_asset/map.html"
     }
   ]
