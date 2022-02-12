@@ -51,16 +51,16 @@
   [
     {
       "id":1,
-      "name_map":"Blazer Water Park map",
-      "map_url":"https://archive.org/download/blazer-water-park_202202/Blazer%20waterpark%20map%E2%9C%93/BlazerWaterPark.zip",
-      "view_map":"https://archive.org/download/blazer-water-park_202202/Blazer%20waterpark%20map%E2%9C%93/blazer-water-park_2.png",
+      "name_map":"Medieval Town map",
+      "map_url":"https://archive.org/download/medieval-town/medieval%20town%20map/Medieval-Town.zip",
+      "view_map":"https://archive.org/download/medieval-town/medieval%20town%20map/medieval-village-03_9.jpeg",
       "des_map":"file:///android_asset/map.html"
     },
 	{
       "id":2,
-      "name_map":"Prison Map",
-      "map_url":"https://archive.org/download/prison-map-cops-and-robbers/prison%20map/Prison_Map__Cops_and_Robbers.zip",
-      "view_map":"https://archive.org/download/prison-map-cops-and-robbers/prison%20map/prison-map--cops-and-robbers_3.png",
+      "name_map":"Isolated Battlefields map",
+      "map_url":"https://archive.org/download/isolated-battlefields/isolated%20battlefield%20map/Isolated%20Battlefields.zip",
+      "view_map":"https://archive.org/download/isolated-battlefields/isolated%20battlefield%20map/isolated-battlefields-pvp_2.png",
       "des_map":"file:///android_asset/map.html"
     }
   ]
