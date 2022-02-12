@@ -58,9 +58,9 @@
     },
 	{
       "id":2,
-      "name_map":"Savanna Utopia Resort map",
-      "map_url":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/Savanna%20Utopia%20Resort.zip",
-      "view_map":"https://archive.org/download/savanna-utopia-resort/savanna%20utopia%20resort%20map/savanna-utopia-resort_4.png",
+      "name_map":"Prison Map",
+      "map_url":"https://archive.org/download/prison-map-cops-and-robbers/prison%20map/Prison_Map__Cops_and_Robbers.zip",
+      "view_map":"https://archive.org/download/prison-map-cops-and-robbers/prison%20map/prison-map--cops-and-robbers_3.png",
       "des_map":"file:///android_asset/map.html"
     }
   ]
