@@ -51,16 +51,16 @@
   [
     {
       "id":1,
-      "name_map":"Hells Nightmare map",
-      "map_url":"https://archive.org/download/hells-nightmare-beta/Hells%20nighmare%20map/Hells%20Nightmare%20Beta.zip",
-      "view_map":"https://archive.org/download/hells-nightmare-beta/Hells%20nighmare%20map/hells-nightmare_3.png",
+      "name_map":"Medieval Town map",
+      "map_url":"https://archive.org/download/medieval-town/medieval%20town%20map/Medieval-Town.zip",
+      "view_map":"https://archive.org/download/medieval-town/medieval%20town%20map/medieval-village-03_9.jpeg",
       "des_map":"file:///android_asset/map.html"
     },
 	{
       "id":2,
-      "name_map":"Castle map",
-      "map_url":"https://archive.org/download/castle_202202/Castle%20map/Castle.zip",
-      "view_map":"https://archive.org/download/castle_202202/Castle%20map/castle_8.png",
+      "name_map":"Parkour And Puzzle Map",
+      "map_url":"https://archive.org/download/parkour-and-puzzle-map-v-1.12/Parkour%20and%20Puzzle%20Maps%2030%20Levels%21/Parkour_and_puzzle_map_v1.12.zip",
+      "view_map":"https://archive.org/download/parkour-and-puzzle-map-v-1.12/Parkour%20and%20Puzzle%20Maps%2030%20Levels%21/pro-image_1-520x245-1.png",
       "des_map":"file:///android_asset/map.html"
     }
   ]
