@@ -1,0 +1,285 @@
+{
+  "Ads":
+  [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories":
+  [
+    {
+      "id": 1,
+      "name_category": "1",
+      "image": "https://archive.org/download/idea-mods/Idea%20Mods.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "1",
+      "title": "01.mp3",
+      "image": "https://archive.org/download/idea-mods/Idea%20Mods.png",
+      "link_mp3": "https://archive.org/download/01_20220213/01.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "",
+      "title": "LOS DOL",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/02.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "",
+      "title": "NDAS GERIH",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/03.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "",
+      "title": "Pengen Nangis Tapi Isin",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/04.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 5,
+      "name_category": "",
+      "title": "PERLAHAN",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/05.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "",
+      "title": "Cocote Tonggo",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/06.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "",
+      "title": "Baik - Baik Saja",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/07.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "",
+      "title": "Dalan Liyane",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/08.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "",
+      "title": "Dalane Gusti",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/09.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 10,
+      "name_category": "",
+      "title": "Dinggo Bukti",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/10.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 11,
+      "name_category": "",
+      "title": "Ninggal Tatu",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/11.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 12,
+      "name_category": "",
+      "title": "GEDE ROSO",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/12.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 13,
+      "name_category": "",
+      "title": "Ditinggal Pas Sayang Sayange",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/13.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 14,
+      "name_category": "",
+      "title": "SAK ORA ORANE",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/14.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 15,
+      "name_category": "",
+      "title": "Kowe Neng Endi",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/15.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 16,
+      "name_category": "",
+      "title": "Lilakno Lungaku",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/16.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 17,
+      "name_category": "",
+      "title": "Loro Ati",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/17.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 18,
+      "name_category": "",
+      "title": "Manut Dalane",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/18.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 19,
+      "name_category": "",
+      "title": "Menepi",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/19.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 20,
+      "name_category": "",
+      "title": "OJO GOBLOK MENCINTA",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/20.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 21,
+      "name_category": "",
+      "title": "Banyu Moto",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/21.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 22,
+      "name_category": "",
+      "title": "Salah Pilih",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/22.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 23,
+      "name_category": "",
+      "title": "Sambate Ati",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/23.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 24,
+      "name_category": "",
+      "title": "SAMPEK TUWEK",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/24.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 25,
+      "name_category": "",
+      "title": "Tak Ikhlasno",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/25.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 26,
+      "name_category": "",
+      "title": "Tanpo Tresnamu",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/26.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 27,
+      "name_category": "",
+      "title": "Ikhlas Ngenteni",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/27.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    },
+    {
+      "id": 28,
+      "name_category": "",
+      "title": "Pamit Rabi",
+      "image": "file:///android_asset/image/mp3.png",
+      "link_mp3": "mp3/28.mp3",
+      "duration": "270",
+      "lyrics": "<p style=\"text-align: center;\">Pengusaha itu bukan orang yang pintar</p>\n<p style=\"text-align: center;\">tetapi mereka pintar mencari orang pintar.</p>"
+    }
+  ]
+}
