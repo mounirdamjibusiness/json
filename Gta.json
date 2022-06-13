@@ -20,14 +20,14 @@
       "status_app": "0",
       "link_redirect": "https://"
     }
-  ],
-{
-  		"More": "More APP",
-		"img": "https://us.123rf.com/450wm/blankstock/blankstock1409/blankstock140901316/31369463-vignettes-signe-ic%C3%B4ne-galerie-option-d-affichage-symbole-cercle-bouton-plat-avec-ombre-moderne-site-.jpg?ver=6",
-		"link_redirect": "https://appgallery.huawei.com/tab/automore%7Cdoublecolumncard%7C903423%7CA01001%7CC105107843"
-	},
+ "More":
   [
-
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://us.123rf.com/450wm/blankstock/blankstock1409/blankstock140901316/31369463-vignettes-signe-ic%C3%B4ne-galerie-option-d-affichage-symbole-cercle-bouton-plat-avec-ombre-moderne-site-.jpg?ver=6",
+      "link":"https://appgallery.huawei.com/tab/automore%7Cdoublecolumncard%7C903423%7CA01001%7CC105107843"
+    }
   ],
   "Skin":
   [
